@@ -1,4 +1,5 @@
 ﻿using hrm_api.Configurattion;
+using hrm_api.Model;
 using Microsoft.EntityFrameworkCore;
 
 
@@ -10,7 +11,7 @@ public class AppDbContext : DbContext
     
     
     
-    
+    public DbSet<LoggedRequest> LoggedRequests { get; set; }
     
     public AppDbContext()
     {

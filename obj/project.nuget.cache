@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pVy316QmCY8=",
+  "dgSpecHash": "xy0tqqwmB24=",
   "success": true,
   "projectFilePath": "D:\\HE Project\\GitHub\\hrm-api\\hrm-api.csproj",
   "expectedPackageFiles": [
@@ -100,26 +100,6 @@
     "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.11\\microsoft.netcore.app.host.win-x64.8.0.11.nupkg.sha512"
   ],
   "logs": [
-    {
-      "code": "NU1801",
-      "level": "Warning",
-      "message": "Failed to retrieve information about 'Microsoft.AspNetCore.OpenApi' from remote source 'https://gitlab.com/api/v4/projects/56050917/packages/nuget/download/microsoft.aspnetcore.openapi/index.json'.",
-      "projectPath": "D:\\HE Project\\GitHub\\hrm-api\\hrm-api.csproj",
-      "warningLevel": 1,
-      "filePath": "D:\\HE Project\\GitHub\\hrm-api\\hrm-api.csproj",
-      "libraryId": "Microsoft.AspNetCore.OpenApi",
-      "targetGraphs": []
-    },
-    {
-      "code": "NU1801",
-      "level": "Warning",
-      "message": "Failed to retrieve information about 'Microsoft.AspNetCore.OpenApi' from remote source 'https://gitlab.com/api/v4/projects/63095648/packages/nuget/download/microsoft.aspnetcore.openapi/index.json'.",
-      "projectPath": "D:\\HE Project\\GitHub\\hrm-api\\hrm-api.csproj",
-      "warningLevel": 1,
-      "filePath": "D:\\HE Project\\GitHub\\hrm-api\\hrm-api.csproj",
-      "libraryId": "Microsoft.AspNetCore.OpenApi",
-      "targetGraphs": []
-    },
     {
       "code": "NU1604",
       "level": "Warning",
